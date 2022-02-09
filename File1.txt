@@ -1,1 +1,2 @@
 On Local Master For Push
+Operation for Pulling into the local repo

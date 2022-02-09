@@ -1,5 +1,1 @@
-On Local Master For Push
-Operation for Pulling into the local repo
-Change for conflict and rebase from remote
-local master conflict
-
+Change 1
